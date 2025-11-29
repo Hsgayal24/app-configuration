@@ -1,0 +1,4 @@
+build:
+  id: 202
+  name: dafault-application
+  version: 1.0.0-default
